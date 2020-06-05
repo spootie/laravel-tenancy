@@ -1,0 +1,16 @@
+{
+    "name": "spootie/laravel-tenancy",
+    "type": "project",
+    "description": "Tenancy go brrrr",
+    "keywords": [
+        "spootie",
+        "laravel",
+        "tenancy"
+    ],
+    "license": "MIT",
+    "require": {
+        "spatie/laravel-multitenancy": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
